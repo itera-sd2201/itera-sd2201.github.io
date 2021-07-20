@@ -96,15 +96,7 @@
       background-color: $grey-dk-000;
     }
 
-    &.lab-sec-1 {
-      background-color: $purple-000;
-    }
-    
-    &.lab-sec-2 {
-      background-color: $purple-000;
-    }
-    
-    &.lab-sec-3 {
+    &.lab-sec-1, &.lab-sec-2, &.lab-sec-3 {
       background-color: $purple-000;
     }
 
