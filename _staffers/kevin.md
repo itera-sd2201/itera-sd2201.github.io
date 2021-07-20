@@ -1,9 +1,9 @@
 ---
-name: Kevin Lin
+name: Alexander Krentsel
 role: Instructor
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+email: alex@krentsel.com
+website: https://krentsel.com
+photo: alex.jpeg
 ---
 
 [Schedule an appointment](#){: .btn .btn-outline }
