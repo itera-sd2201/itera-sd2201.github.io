@@ -22,43 +22,43 @@ schedule:
   - name: Monday
     events:
       - name: Lecture (Sec. 1)
-        start: 9:10 AM
+        start: 9:00 AM
         end: 10:00 AM
         location: Zoom (virtual)
       - name: Lecture (Sec. 2)
-        start: 10:10 AM
+        start: 10:00 AM
         end: 11:00 AM
         location: Zoom (virtual)
       - name: Lecture (Sec. 3)
-        start: 2:10 PM
+        start: 2:00 PM
         end: 3:00 PM
         location: Zoom (virtual)
   - name: Tuesday
   - name: Wednesday
     events:
       - name: Lecture (Sec. 1)
-        start: 9:10 AM
+        start: 9:00 AM
         end: 10:00 AM
         location: Zoom (virtual)
       - name: Lecture (Sec. 2)
-        start: 10:10 AM
+        start: 10:00 AM
         end: 11:00 AM
         location: Zoom (virtual)
       - name: Lecture (Sec. 3)
-        start: 2:10 PM
+        start: 2:00 PM
         end: 3:00 PM
         location: Zoom (virtual)
   - name: Thursday
       - name: Lab (Sec. 1)
-        start: 9:10 AM
+        start: 9:00 AM
         end: 10:00 AM
         location: Zoom (virtual)
       - name: Lab (Sec. 2)
-        start: 10:10 AM
+        start: 10:00 AM
         end: 11:00 AM
         location: Zoom (virtual)
       - name: Lab (Sec. 3)
-        start: 12:40 PM
+        start: 12:30 PM
         end: 1:30 PM
         location: Zoom (virtual)
   - name: Friday
