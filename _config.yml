@@ -30,6 +30,8 @@ permalink: pretty
 aux_links:
   Mimir:
     - 'https://www.mimirhq.com/'
+  Blackboard:
+    - 'http://blackboard.howard.edu/'
 footer_content:
 
 # Collections for website data
