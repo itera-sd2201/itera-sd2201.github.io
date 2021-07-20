@@ -21,7 +21,7 @@ timeline:
 schedule:
   - name: Monday
     events:
-      - name: Lecture
+      - name: Lecture 1
         start: 9:30 AM
         end: 10:30 AM
         location: 0 Wheeler
