@@ -23,7 +23,7 @@ schedule:
       - name: Lecture (Sec. 1)
         start: 9:00 AM
         end: 10:00 AM
-        location: 0 Wheeler
+        location: 100 Wheeler
       - name: Lecture (Sec. 2)
         start: 10:00 AM
         end: 11:00 AM
