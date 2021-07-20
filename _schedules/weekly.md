@@ -62,4 +62,9 @@ schedule:
         end: 1:30 PM
         location: 0 Wheeler
   - name: Friday
+    events:
+      - name: Office Hours
+        start: 10:00 AM
+        end: 12:00 PM
+        location: 0 Wheeler
 ---
