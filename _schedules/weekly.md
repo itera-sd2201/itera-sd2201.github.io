@@ -1,5 +1,7 @@
 ---
 timeline:
+  - '8:00 AM'
+  - '8:30 AM'
   - '9:00 AM'
   - '9:30 AM'
   - '10:00 AM'
@@ -25,10 +27,10 @@ schedule:
         start: 9:00 AM
         end: 10:00 AM
         location: 0 Wheeler
-      - name: Section
-        start: 11:30 AM
-        end: 12:30 PM
-        location: 310 Soda
+      - name: Lecture (Sec. 2)
+        start: 10:00 AM
+        end: 11:00 AM
+        location: 0 Wheeler
       - name: Office Hours
         start: 12:30 PM
         end: 2:00 PM
