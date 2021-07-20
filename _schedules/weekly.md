@@ -48,5 +48,18 @@ schedule:
         end: 3:00 PM
         location: 0 Wheeler
   - name: Thursday
+    events:
+      - name: Lab (Sec. 1)
+        start: 9:00 AM
+        end: 10:00 AM
+        location: 0 Wheeler
+      - name: Lab (Sec. 2)
+        start: 10:00 AM
+        end: 11:00 AM
+        location: 0 Wheeler
+      - name: Lab (Sec. 3)
+        start: 12:30 PM
+        end: 1:30 PM
+        location: 0 Wheeler
   - name: Friday
 ---
