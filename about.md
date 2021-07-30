@@ -15,19 +15,78 @@ description: >-
 {:toc}
 
 ---
+## Overview
+CSCI100 is an introductory class designed for students with no formal exposure to computer science or programming. The goal is to provide a gentle but thorough introduction to computer science that will prepare students to either take further computer science courses, or use computer science in their field of study.
 
-## About
+By the end of the course, students will learn
+ - Variables, Expressions, Types
+ - Input/Output
+ - Logic and Control Flow
+ - Functions
+ - Recursion
+ - Basic algorithms, runtime and efficiency
+ - Objects and Classes
+ - Sets and Dictionaries
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+## Course Meetings
+Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
+### Lecture
+Lectures will be a mix of lectures covering new material, coding demos, and in-class problem solving. Due to the size of the course, lectures will be held
 
-## Lecture
+I will be releasing pre-recorded videos covering the topics from lecture the day *after* the in-person lecture, for students who would like to review the material or may have missed class. These pre-recorded lectures will not be as useful as in-class lectures as they are not interactive, and you will **not** receive attendance credit for only watching the pre-recorded lecture.
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+### Labs
+Labs will be the main in-class place to apply the new concepts that you're learning in lecture. You will be given problems to solve, that you'll be able to work on with your peers. Your labs will be submitted on Mimir and graded by the Mimir autograder. Labs will be released each Thursday morning, and will be due the following Tuesday. 
+
+You should take advantage of labs as you can ask the professor or TAs for help on completing the assignments. 
+
+### Office Hours
+
+We will hold a mixture of in-person and virtual office hours at a wide variety of times. Virtual office hours will be held on Zoom, the link can be found at the [course schedule page](schedule.md). In-person office hours will be held in Prof. Krentsel's office. You are welcome to come for any reason, including course material questions, lecture clarifications, industry interview prep, career path discussions, or just to hang out. 
+
+As a course, we commit to making sure no student fails the class due to lack of class resources, so if you are behind or confused, please reach out for help. The course staff will make themselves as available as possible to help you.
+
+## Policies
+
+### Grades
+
+The grading policy is to-be-announced.
+
+### Attendance
+Class attendance will be part of your grade. You'll be expected to attend all lectures and labs. You're allowed to miss up to 2 lectures during the semester. Attendance will be taken each lecture by a short ungraded quiz given on the lecture material at a random time. You will not be scored on the correctness of your answers on these in-class quizzes.
+
+### Assignments
+
+The assignments policy is to-be-announced.
+
+### Exams
+
+There will be one midterm held around the middle of the semester. The date is to-be-announced.
+
+### Cheating
+
+For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. It can be tempting to cheat. Know that Mimir's autograder has a very good plagiarism detector. Any assignment found to be plagiarized will be zero-ed out for all students with matching code, and the students will be referred to the universty for academic dishonesty. 
+
+If I ask you how your code works and you do not know, it will be evident that you have copied it. Don't take the risk. Despite this explicit warning, each year, multiple students still cheat and are caught. 
+
+The course staff will work tirelessly to provide enough support for any student to get help and make it through the class. In exchange, we ask you to uphold academic integrity and not to plagiarize code or ideas. 
 
 ## Resources
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+This course website, [csci100.org](csci100.org), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we will be using the following software.
 
-## Assignments
+**Blackboard**
+Your official class grade will be in Blackboard. You should already have a Blackboard account. Get in touch with your advisor if you can't access the course on Blackboard.
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+**Mimir**
+You will get a link to sign up for this tool when we begin class. We will use Mimir for editing and turning in assignments. Note that Mimir may display a “grade” for you, but the official one is in Blackboard.
+
+**Discord**
+Discord is a free chat app which we will use for Q&A outside of the classroom. 
+
+**Zoom**
+In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom.
+
+### Material Attribution
+We'd like to thank UC Berkeley's [CS10: The Beauty and Joy of Computing](https://cs10.org/fa19/) and [CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa15/), from which this course borrows high-level topics and organization. Course material will be created by Prof. Alex Krentsel, borrowing from past iterations of this course at Howard taught by GIR instructors.
+
