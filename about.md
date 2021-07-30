@@ -73,7 +73,7 @@ The course staff will work tirelessly to provide enough support for any student 
 
 ## Resources
 
-This course website, [csci100.org](csci100.org), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we will be using the following software.
+This course website, [csci100.org](https://www.csci100.org), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we will be using the following software.
 
 **Blackboard**
 Your official class grade will be in Blackboard. You should already have a Blackboard account. Get in touch with your advisor if you can't access the course on Blackboard.
