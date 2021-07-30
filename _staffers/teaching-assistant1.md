@@ -1,9 +1,9 @@
 ---
-name: Teaching Assistant1
+name: Toby Hired
 role: Teaching Assistant
-email: me@example.com
-website: https://ta.com
-photo: alex.jpeg
+email: donut@exist.com
+website: https://www.google.com
+photo: toby-hired.jpeg
 ---
 
 I like teaching Computer Science!
