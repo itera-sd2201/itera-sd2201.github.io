@@ -9,7 +9,7 @@ Aug 25
 : Intro to Programming, Memory
 
 Aug 26
-: **Lab**{: .label .label-purple }[My First Code](#)
+: **Lab**{: .label .label-purple }[Lab 1: My First Code](#)
 <!--   : [Solution](#) -->
 
 Aug 27
