@@ -31,7 +31,7 @@ By the end of the course, students will learn
 ## Course Meetings
 Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
 ### Lecture
-Lectures will be a mix of lectures covering new material, coding demos, and in-class problem solving. Due to the size of the course, lectures will be held
+Lectures will be a mix of lectures covering new material, coding demos, and in-class problem solving. Lecture format is TBD; it may be in person, or it may be virtual.
 
 I will be releasing pre-recorded videos covering the topics from lecture the day *after* the in-person lecture, for students who would like to review the material or may have missed class. These pre-recorded lectures will not be as useful as in-class lectures as they are not interactive, and you will **not** receive attendance credit for only watching the pre-recorded lecture.
 
