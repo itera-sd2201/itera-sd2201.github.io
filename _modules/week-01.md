@@ -3,10 +3,10 @@ title: Week 1
 ---
 
 Aug 23
-: Tools & Computational Thinking
+: **Tools & Computational Thinking**
   
 Aug 25
-: Intro to Programming, Memory
+: **Intro to Programming, Memory**
 
 Aug 26
 : **Lab**{: .label .label-purple }[Lab 1: My First Code](#)
