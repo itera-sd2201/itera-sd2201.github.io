@@ -1,23 +1,16 @@
 ---
-title: Introduction to Java
+title: Week 1
 ---
 
-Sep 28
-: [Java & Git](#)
-  : [1.1](#)
+Aug 23
+: Tools & Computational Thinking
+  
+Aug 25
+: Intro to Programming, Memory
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Aug 26
+: **Lab**{: .label .label-purple }[My First Code](#)
+<!--   : [Solution](#) -->
 
-Sep 30
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
-
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
-
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
-  : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+Aug 27
+: **HW 1 due**{: .label .label-red }[Who am I?](#)
