@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CSCI100 Homepage
+title: Home
 nav_exclude: false
 seo:
   type: Course
