@@ -29,7 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Mimir:
-    - 'https://www.mimirhq.com/'
+    - 'https://class.mimir.io/courses/ea69c458-7197-4411-af4e-50754e398f64'
+  Piazza:
+    - 'https://piazza.com/howard/fall2021/csci100'
   Blackboard:
     - 'http://blackboard.howard.edu/'
 footer_content:
