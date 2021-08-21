@@ -1,7 +1,7 @@
 ---
 layout: home
 title: CSCI100 Homepage
-nav_exclude: true
+nav_exclude: false
 seo:
   type: Course
   name: CSCI100 Howard
@@ -21,4 +21,4 @@ seo:
 
 CSCI100 is an introductory class designed for students with no formal exposure to computer science or programming. The goal is to provide a gentle but thorough introduction to computer science that will prepare students to either take further computer science courses, or use computer science in their field of study.
 
-See the [about page](about.md) for more details on course policies.
+See the [Syllabus page](about.md) for more details on course policies.
