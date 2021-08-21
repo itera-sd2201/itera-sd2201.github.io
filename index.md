@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-nav_exclude: false
+nav_exclude: true
 seo:
   type: Course
   name: CSCI100 Howard
