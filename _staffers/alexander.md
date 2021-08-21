@@ -6,4 +6,4 @@ website: https://krentsel.com
 photo: alex_square_photo.jpeg
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[Schedule an appointment](https://calendly.com/alex-krentsel){: .btn .btn-outline }
