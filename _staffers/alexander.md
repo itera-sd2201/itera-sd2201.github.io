@@ -1,7 +1,7 @@
 ---
 name: Alexander Krentsel
 role: Instructor
-email: alex@krentsel.com
+email: akrentsel@csci100.org
 website: https://krentsel.com
 photo: alex_square_photo.jpeg
 ---
