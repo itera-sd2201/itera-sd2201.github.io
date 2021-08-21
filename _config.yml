@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: CSCI 100
 tagline: Howard CSCI 100 Class Website
-description: Fall 2021 Intro to CS class website.
+description: Intro to Computer Science
 author: Alexander Krentsel
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://csci100.org' # the base hostname & protocol for your site, e.g. http://example.com
