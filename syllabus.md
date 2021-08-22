@@ -30,13 +30,12 @@ By the end of the course, students will learn
 
 ## Course Meetings
 Lectures, labs, and office hours are the main ways in which you will interact with your professor and TAs. You can see the weekly schedule of course meetings on the [course schedule page](schedule.md).
-### Lecture
-Lectures will be a mix of lectures covering new material, coding demos, and in-class problem solving. Lecture format is TBD; it may be in person, or it may be virtual.
 
-I will be releasing pre-recorded videos covering the topics from lecture the day *after* the in-person lecture, for students who would like to review the material or may have missed class. These pre-recorded lectures will not be as useful as in-class lectures as they are not interactive, and you will **not** receive attendance credit for only watching the pre-recorded lecture.
+### Lecture
+Lectures for this course will be 100% virtual. This class will use a flipped classroom model, where lecture videos will be sent out before class that you must watch. You will be expected to have watched the videos before class. Classtime will then be spent on answering student questions on the material, and working through practice problems. You are expected to come to each class, having watched the lecture videos, as there will be weekly quizzes given at a random time during class. 
 
 ### Labs
-Labs will be the main in-class place to apply the new concepts that you're learning in lecture. You will be given problems to solve, that you'll be able to work on with your peers. Your labs will be submitted on Mimir and graded by the Mimir autograder. Labs will be released each Thursday morning, and will be due the following Tuesday. 
+Lab for this course will be 100% virtual. Labs will allow you to apply the new concepts that you're learning in lecture to broader, graded problems. You will be given problems to solve, that you'll be able to work on with your peers in groups of 4. Your labs will be submitted on Mimir and graded by the Mimir autograder. Labs will be released each Wednesday evening, and will be due the following Tuesday at 11:59pm. 
 
 You should take advantage of labs as you can ask the professor or TAs for help on completing the assignments. 
 
@@ -49,19 +48,18 @@ As a course, we commit to making sure no student fails the class due to lack of 
 ## Policies
 
 ### Grades
-
-The grading policy is to-be-announced.
-
-### Attendance
-Class attendance will be part of your grade. You'll be expected to attend all lectures and labs. You're allowed to miss up to 2 lectures during the semester. Attendance will be taken each lecture by a short ungraded quiz given on the lecture material at a random time. You will not be scored on the correctness of your answers on these in-class quizzes.
+The class will *not* be curved. Instead, your grade will be based on buckets that are yet to be released, which will be set based on the difficulty of the exams, quizzes, projects, labs, and homework towards the end of the semester.
 
 ### Assignments
+These details are subject to change during the semester, however the current plan of record is the following:
 
-The assignments policy is to-be-announced.
+- 13 Quizzes - random time during lecture time, once a week. 
+- 13 Labs - 1x per week. Work w/ partners, submit individually
+- 7 Homeworks - spread throughout the semester. Work individually, submit individually.
+- 2 Projects - more details to come
 
 ### Exams
-
-There will be one midterm held around the middle of the semester. The date is to-be-announced.
+This course will have 3 exams, spaced evenly across the semester, with the third exam happening during finals week. More details on exam format, content, and dates will come during the semester.
 
 ### Cheating
 
@@ -75,17 +73,19 @@ The course staff will work tirelessly to provide enough support for any student 
 
 This course website, [csci100.org](https://www.csci100.org), will be your one-stop resource for the syllabus, schedule, lecture videos, and assignment links. Additionally, we will be using the following software.
 
-**Blackboard**
-Your official class grade will be in Blackboard. You should already have a Blackboard account. Get in touch with your advisor if you can't access the course on Blackboard.
-
 **Mimir**
 You will get a link to sign up for this tool when we begin class. We will use Mimir for editing and turning in assignments. Note that Mimir may display a “grade” for you, but the official one is in Blackboard.
 
-**Discord**
-Discord is a free chat app which we will use for Q&A outside of the classroom. 
+**Piazza**
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
+
+Find our class page at: [https://piazza.com/howard/fall2021/csci100/home](https://piazza.com/howard/fall2021/csci100/home).
 
 **Zoom**
-In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom.
+In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom. You can find the Zoom link for your section at [https://csci100.org/schedule/](https://csci100.org/schedule/).
+
+**Blackboard**
+Your official class midterm and final grades will be published in Blackboard. You should already have a Blackboard account. Get in touch with your advisor if you can't access the course on Blackboard. Other than occasionally syncing grades to Blackboard, we will not be using Blackboard.
 
 ### Material Attribution
 We'd like to thank UC Berkeley's [CS10: The Beauty and Joy of Computing](https://cs10.org/fa19/) and [CS61A: Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/fa15/), from which this course borrows high-level topics and organization. Course material will be created by Prof. Alex Krentsel, borrowing from past iterations of this course at Howard taught by GIR instructors.
