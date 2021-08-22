@@ -77,9 +77,7 @@ This course website, [csci100.org](https://www.csci100.org), will be your one-st
 You will get a link to sign up for this tool when we begin class. We will use Mimir for editing and turning in assignments. Note that Mimir may display a “grade” for you, but the official one is in Blackboard.
 
 **Piazza**
-This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza.
-
-Find our class page at: [https://piazza.com/howard/fall2021/csci100/home](https://piazza.com/howard/fall2021/csci100/home).
+This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. You can find the [class Piazza here](https://piazza.com/howard/fall2021/csci100/home).
 
 **Zoom**
 In light of the large class size and COVID risks, our weekly lectures and labs will be taught virtually over Zoom. You can find the Zoom link for your section at [https://csci100.org/schedule/](https://csci100.org/schedule/).
