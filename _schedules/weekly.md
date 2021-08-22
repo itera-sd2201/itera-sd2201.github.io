@@ -30,7 +30,7 @@ schedule:
         end: 11:00 AM
         location: Zoom Link
         url: https://www.shortl.io/csci100-sec2
-      - name: Prof Office Hours
+      - name: Office Hours
         start: 11:00 AM
         end: 12:00 PM
         location: Zoom Link
@@ -42,7 +42,7 @@ schedule:
         url: https://www.shortl.io/csci100-sec3
   - name: Tuesday
     events:
-      - name: Prof Office Hours
+      - name: Office Hours
         start: 1:00 PM
         end: 3:00 PM
         location: Zoom Link
