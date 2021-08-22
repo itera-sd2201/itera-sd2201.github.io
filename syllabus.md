@@ -63,11 +63,11 @@ This course will have 3 exams, spaced evenly across the semester, with the third
 
 ### Cheating
 
-For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. It can be tempting to cheat. Know that Mimir's autograder has a very good plagiarism detector. Any assignment found to be plagiarized will be zero-ed out for all students with matching code, and the students will be referred to the universty for academic dishonesty. 
+For all assignments in the course, you may discuss approaches to solving a problem or work in the same room on separate computers to individually solve a problem, but **you may *not* copy and paste code or substantially copy ideas from another student**. It can be tempting to cheat. Know that Mimir's autograder has a very good plagiarism detector. Per Howard University policy, the first time an assignment is found to be plagiarized, the assignment grade will be zero-ed out for all students with matching code. The second time, all students involved will have their final course grade decreased by 1 letter grade (B going to a C, A- does to a B-, etc.). The third time, all students involved will be referred to the Dean's office for academic dishonesty. 
 
-If I ask you how your code works and you do not know, it will be evident that you have copied it. Don't take the risk. Despite this explicit warning, each year, multiple students still cheat and are caught. 
+If I ask you how your code works and you do not know, it will be evident that you have copied it. Don't take the risk. Despite this explicit warning, each year, a few students still cheat and are caught. I do not enjoy catching and penalizing students for plagiarism, but it's necessary for 
 
-The course staff will work tirelessly to provide enough support for any student to get help and make it through the class. In exchange, we ask you to uphold academic integrity and not to plagiarize code or ideas. 
+The course staff will work tirelessly to provide enough support for any student to get help and make it through the class. In exchange, we ask you to uphold academic integrity and not to plagiarize code or ideas.
 
 ## Resources
 
