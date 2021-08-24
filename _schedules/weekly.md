@@ -43,7 +43,7 @@ schedule:
   - name: Tuesday
     events:
       - name: Office Hours
-        start: 1:00 PM
+        start: 2:00 PM
         end: 3:00 PM
         location: Zoom Link
         url: https://www.shortl.io/csci100-oh
