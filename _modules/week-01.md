@@ -11,8 +11,8 @@ Aug 25
 : **Languages, Mimir Overview, Hello World**
   : \[[videos](https://youtube.com/playlist?list=PLr509y092L28k205TvV5QwoqRMUsOn5Ch)\] \[[slides](https://docs.google.com/presentation/d/18ymykJG-Cv72jQ0LUKTIqCCPAi7Y_5ab_4sojvc9S80/edit?usp=sharing)\]
 
-<!-- Aug 26 -->
-<!-- : **Lab**{: .label .label-purple }Lab 1: My First Code -->
+Aug 26
+: **Lab**{: .label .label-purple }Lab 1: The Cup Problem
 <!--   : [Solution](#) -->
 
 <!-- Aug 27
