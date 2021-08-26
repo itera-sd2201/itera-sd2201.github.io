@@ -110,4 +110,5 @@ schedule:
         start: 4:00 PM
         end: 5:00 PM
         location: Google Meet (w/ Jonathan)
+        url: https://meet.google.com/air-oian-cwq
 ---
