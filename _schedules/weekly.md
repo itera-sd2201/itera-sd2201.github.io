@@ -89,6 +89,12 @@ schedule:
   - name: Friday
     events:
       - name: Office Hours
+        start: 9:00 AM
+        end: 10:00 AM
+        location: Zoom Link
+        url: https://www.shortl.io/csci100-oh
+    events:
+      - name: Office Hours
         start: 11:30 AM
         end: 12:30 PM
         location: Zoom Link
