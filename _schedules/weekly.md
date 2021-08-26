@@ -93,28 +93,19 @@ schedule:
         end: 10:00 AM
         location: Google Meet
         url: https://meet.google.com/rqu-ynfq-xmw
-    events:
       - name: Office Hours
         start: 10:00 AM
         end: 11:00 AM
         location: Google Meet
         url: https://meet.google.com/rqu-ynfq-xmw
-    events:
       - name: Office Hours
         start: 11:30 AM
         end: 12:30 PM
         location: Zoom Link
         url: https://www.shortl.io/csci100-oh
-    events:
       - name: Office Hours
         start: 4:00 PM
         end: 5:00 PM
-        location: Google Meet (w/ Jonathan)
-        url: https://meet.google.com/air-oian-cwq
-    events:
-      - name: Office Hours
-        start: 1:00 PM
-        end: 2:00 PM
         location: Google Meet (w/ Jonathan)
         url: https://meet.google.com/air-oian-cwq
 ---
