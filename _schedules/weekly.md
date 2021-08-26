@@ -91,13 +91,13 @@ schedule:
       - name: Office Hours
         start: 9:00 AM
         end: 10:00 AM
-        location: Google Meet (w/ Prof. Chaudhary)
+        location: Google Meet
         url: https://meet.google.com/rqu-ynfq-xmw
     events:
       - name: Office Hours
         start: 10:00 AM
         end: 11:00 AM
-        location: Google Meet (w/ Deontae)
+        location: Google Meet
         url: https://meet.google.com/rqu-ynfq-xmw
     events:
       - name: Office Hours
