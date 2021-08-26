@@ -113,8 +113,8 @@ schedule:
         url: https://meet.google.com/air-oian-cwq
     events:
       - name: Office Hours
-        start: 6:00 PM
-        end: 7:00 PM
+        start: 1:00 PM
+        end: 2:00 PM
         location: Google Meet (w/ Jonathan)
         url: https://meet.google.com/air-oian-cwq
 ---
