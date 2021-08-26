@@ -91,12 +91,12 @@ schedule:
       - name: Office Hours
         start: 9:00 AM
         end: 10:00 AM
-        location: Google Meet
+        location: Google Meet (w/ Vijay)
         url: https://meet.google.com/rqu-ynfq-xmw
       - name: Office Hours
         start: 10:00 AM
         end: 11:00 AM
-        location: Google Meet
+        location: Google Meet (w/ Deontae)
         url: https://meet.google.com/rqu-ynfq-xmw
       - name: Office Hours
         start: 11:30 AM
