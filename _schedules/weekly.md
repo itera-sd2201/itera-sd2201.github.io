@@ -35,6 +35,11 @@ schedule:
         end: 12:00 PM
         location: Zoom Link
         url: https://www.shortl.io/csci100-oh
+      - name: Office Hours
+        start: 1:00 PM
+        end: 2:00 PM
+        location: Zoom Link
+        url: https://www.shortl.io/csci100-oh
       - name: Lecture (Sec. 3)
         start: 2:00 PM
         end: 3:00 PM
