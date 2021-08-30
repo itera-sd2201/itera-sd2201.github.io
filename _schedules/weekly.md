@@ -58,7 +58,7 @@ schedule:
       - name: Office Hours
         who: Alex and Chidindu
         start: 11:00 AM
-        end: 12:00 AM
+        end: 12:00 PM
         location: Zoom Link
         url: https://www.shortl.io/csci100-oh
   - name: Wednesday
