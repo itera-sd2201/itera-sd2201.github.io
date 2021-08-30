@@ -31,11 +31,13 @@ schedule:
         location: Zoom Link
         url: https://www.shortl.io/csci100-sec2
       - name: Office Hours
+        who: Alex and Deontae
         start: 11:00 AM
         end: 12:00 PM
         location: Zoom Link
         url: https://www.shortl.io/csci100-oh
       - name: Office Hours
+        who: Alex and Bradon
         start: 1:00 PM
         end: 2:00 PM
         location: Zoom Link
@@ -48,8 +50,15 @@ schedule:
   - name: Tuesday
     events:
       - name: Office Hours
-        start: 2:00 PM
-        end: 3:00 PM
+        who: Vijay
+        start: 9:00 AM
+        end: 10:00 AM
+        location: Zoom Link
+        url: https://www.shortl.io/csci100-oh
+      - name: Office Hours
+        who: Alex and Chidindu
+        start: 11:00 AM
+        end: 12:00 AM
         location: Zoom Link
         url: https://www.shortl.io/csci100-oh
   - name: Wednesday
@@ -94,23 +103,15 @@ schedule:
   - name: Friday
     events:
       - name: Office Hours
-        start: 9:00 AM
-        end: 10:00 AM
-        location: Google Meet (w/ Vijay)
-        url: https://meet.google.com/rqu-ynfq-xmw
-      - name: Office Hours
+        who: Vijay
         start: 10:00 AM
         end: 11:00 AM
-        location: Google Meet (w/ Deontae)
+        location: Google Meet
         url: https://meet.google.com/rqu-ynfq-xmw
       - name: Office Hours
-        start: 11:30 AM
-        end: 12:30 PM
-        location: Zoom Link
-        url: https://www.shortl.io/csci100-oh
-      - name: Office Hours
-        start: 4:00 PM
-        end: 5:00 PM
-        location: Google Meet (w/ Jonathan)
+        who: Alex and Jonathan
+        start: 2:00 PM
+        end: 3:00 PM
+        location: Google Meet
         url: https://meet.google.com/air-oian-cwq
 ---
