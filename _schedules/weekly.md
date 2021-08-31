@@ -108,6 +108,12 @@ schedule:
         end: 11:00 AM
         location: Google Meet
         url: https://meet.google.com/rqu-ynfq-xmw
+      - name: Career Office Hours
+        who: Nathan (Google Recruiter)
+        start: 12:00 PM
+        end: 1:00 PM
+        location: Google Meet
+        url: https://meet.google.com/yec-emhh-zhf
       - name: Office Hours
         who: Alex and Jonathan
         start: 2:00 PM
