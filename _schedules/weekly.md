@@ -53,8 +53,8 @@ schedule:
         who: Vijay
         start: 9:00 AM
         end: 10:00 AM
-        location: Zoom Link
-        url: https://www.shortl.io/csci100-oh
+        location: Google Meet Link
+        url: https://meet.google.com/rqu-ynfq-xmw
       - name: Office Hours
         who: Alex and Chidindu
         start: 11:00 AM
