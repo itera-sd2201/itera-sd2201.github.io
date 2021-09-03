@@ -1,6 +1,6 @@
 ---
 name: Ari Chivukula
-role: Google TA
+role: Google Teaching Assistant
 email: arichiv@google.com
 photo: ari.png
 ---
