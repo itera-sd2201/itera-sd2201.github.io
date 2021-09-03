@@ -15,12 +15,24 @@ For a quicker response on homework or project help, please ask on Piazza rather 
 {{ staffer }}
 {% endfor %}
 
-{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
-{% assign num_teaching_assistants = teaching_assistants | size %}
-{% if num_teaching_assistants != 0 %}
-## Teaching Assistants
+{% assign howard_teaching_assistants = site.staffers | where: 'role', 'Howard Teaching Assistant' %}
+{% assign num_howard_teaching_assistants = howard_teaching_assistants | size %}
 
-{% for staffer in teaching_assistants %}
+{% assign google_teaching_assistants = site.staffers | where: 'role', 'Google Teaching Assistant' %}
+{% assign num_google_teaching_assistants = google_teaching_assistants | size %}
+
+{% if num_howard_teaching_assistants != 0 %}
+## Howard Teaching Assistants
+
+{% for staffer in howard_teaching_assistants %}
+{{ staffer }}
+{% endfor %}
+{% endif %}
+
+{% if num_google_teaching_assistants != 0 %}
+## Google Teaching Assistants
+
+{% for staffer in google_teaching_assistants %}
 {{ staffer }}
 {% endfor %}
 {% endif %}
