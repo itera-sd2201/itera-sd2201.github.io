@@ -1,6 +1,6 @@
 ---
 name: Bradon Thymes
-role: Teaching Assistant
+role: Howard Teaching Assistant
 email: bradon.thymes@bison.howard.edu
 photo: bradon.jpg
 ---
