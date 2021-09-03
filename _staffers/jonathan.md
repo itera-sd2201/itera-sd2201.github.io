@@ -1,6 +1,6 @@
 ---
 name: Jonathan Flores
-role: Teaching Assistant
+role: Howard Teaching Assistant
 email: jonathan.flores@bison.howard.edu
 photo: jonathan.jpg
 ---
