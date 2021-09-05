@@ -2,11 +2,11 @@
 title: Week 3
 ---
 
-Aug 30
+Sep 6
 : No lecture meeting - Labor Day
 <!--   : \[[videos](https://www.youtube.com/)\] \[[slides](https://docs.google.com/)\] -->
   
-Sep 1
+Sep 8
 : **Conditionals**
 <!--   : \[[videos](youtube.com)\] \[[slides](docs.google.com)\] -->
 <!-- : **Lab 1 due**{: .label .label-red } -->
