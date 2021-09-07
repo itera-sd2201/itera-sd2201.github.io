@@ -12,7 +12,7 @@ Sep 1
 : **Lab 1 due**{: .label .label-red }
 
 Sep 2
-: **Lab**{: .label .label-purple }Lab 2: Variables and Expressions
+: **Lab**{: .label .label-purple }[Lab 2: Variables and Expressions](https://class.mimir.io/projects/ea7024cf-a0f8-4786-9a6f-801fdea6e993)
 <!--   : [Solution](#) -->
 
 
