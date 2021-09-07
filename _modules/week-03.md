@@ -12,6 +12,9 @@ Sep 8
 
 Sep 9
 : **Lab**{: .label .label-purple }Lab 3: Conditionals
+
+Sep 12
+: **HW 2 Due**{: .label .label-red }
 <!--   : [Solution](#) -->
 
 
