@@ -1,5 +1,5 @@
 ---
-title: Week 3.5 Announcement
+title: Class Schedule Update - Cyber Attack
 week: 3
 date: 2021-09-07
 ---
