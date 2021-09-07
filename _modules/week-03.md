@@ -10,8 +10,8 @@ Sep 8
   : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L28AOrUdphblWlh_sJYcu4RR)\] \[[slides](https://docs.google.com/presentation/d/13KTDx14MZxZzPpZdDRpYj6zH468QUpQwzbLwhNFkGEQ/edit?usp=sharing)\]
 : **Lab 2 due**{: .label .label-red }
 
-<!-- Sep 2 -->
-<!-- : **Lab**{: .label .label-purple }Lab 2: Variables and Expressions -->
+Sep 9
+: **Lab**{: .label .label-purple }Lab 3: Conditionals
 <!--   : [Solution](#) -->
 
 
