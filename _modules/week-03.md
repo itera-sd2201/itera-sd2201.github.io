@@ -8,13 +8,13 @@ Sep 6
 Sep 8
 : **Style, Conditionals, String Functions**
   : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L28AOrUdphblWlh_sJYcu4RR)\] \[[slides](https://docs.google.com/presentation/d/13KTDx14MZxZzPpZdDRpYj6zH468QUpQwzbLwhNFkGEQ/edit?usp=sharing)\]
-: **Lab 2 due**{: .label .label-red }
+<!-- : **Lab 2 due**{: .label .label-red } -->
 
 Sep 9
 : **Lab**{: .label .label-purple }Lab 3: Conditionals
 
-Sep 12
-: **HW 2 Due**{: .label .label-red }
+<!-- Sep 12 -->
+<!-- : **HW 2 Due**{: .label .label-red } -->
 <!--   : [Solution](#) -->
 
 
