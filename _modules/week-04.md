@@ -3,11 +3,11 @@ title: Week 4
 ---
 
 Sep 13
-: **While, For loops**
+: **Loops 1: While**
 <!--   : \[[videos](youtube.com)\] \[[slides](https://docs.google.com)\] -->
   
 Sep 15
-: **Functions**
+: **For loops, Range**
 <!--   : \[[videos](youtube.com)\] \[[slides](https://docs.google.com)\] -->
 <!-- : **Lab 1 due**{: .label .label-red } -->
 
