@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Sep 13
-: **Loops 1: While**
+: **While loops**
 <!--   : \[[videos](youtube.com)\] \[[slides](https://docs.google.com)\] -->
   
 Sep 15
