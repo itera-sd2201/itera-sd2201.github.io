@@ -3,7 +3,7 @@ title: Week 5
 ---
 
 Sep 20
-: **Lists, Dictionaries**
+: **Intro to Function**
 <!--   : \[[videos](youtube.com)\] \[[slides](https://docs.google.com)\] -->
   
 Sep 22
