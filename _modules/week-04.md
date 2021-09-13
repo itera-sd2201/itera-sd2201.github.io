@@ -3,11 +3,12 @@ title: Week 4
 ---
 
 Sep 13
-: **While loops**
+**Style, Conditionals, String Functions**
+  : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L28AOrUdphblWlh_sJYcu4RR)\] \[[slides](https://docs.google.com/presentation/d/13KTDx14MZxZzPpZdDRpYj6zH468QUpQwzbLwhNFkGEQ/edit?usp=sharing)\]
 <!--   : \[[videos](youtube.com)\] \[[slides](https://docs.google.com)\] -->
   
 Sep 15
-: **For loops, Range**
+: **For loops, Range, While**
 <!--   : \[[videos](youtube.com)\] \[[slides](https://docs.google.com)\] -->
 <!-- : **Lab 1 due**{: .label .label-red } -->
 
