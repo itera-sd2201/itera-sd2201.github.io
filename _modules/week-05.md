@@ -3,7 +3,7 @@ title: Week 5
 ---
 
 Sep 20
-: **Intro to Functions**
+: **Functions**
 <!--   : \[[videos](youtube.com)\] \[[slides](https://docs.google.com)\] -->
   
 Sep 22
