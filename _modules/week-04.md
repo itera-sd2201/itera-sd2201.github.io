@@ -9,11 +9,10 @@ Sep 13
   
 Sep 15
 : **For loops, Range, While**
-<!--   : \[[videos](youtube.com)\] \[[slides](https://docs.google.com)\] -->
-<!-- : **Lab 1 due**{: .label .label-red } -->
+  : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L28sQ4bv8s_aZgj5iq_HQLM9)\] \[[slides](https://docs.google.com/presentation/d/1JkPVEkA5VR7wj0m4xGnsXjr6a735ZQ0EGDVYOpOwy4g/edit?usp=sharing)\]
 
-<!-- Sep 2
-: **Lab**{: .label .label-purple }[Lab 2: Variables and Expressions](https://class.mimir.io/projects/ea7024cf-a0f8-4786-9a6f-801fdea6e993) -->
+Sep 16
+: **Lab**{: .label .label-purple }Lab 4: Loops
 
 <!-- 
 Sep 4
