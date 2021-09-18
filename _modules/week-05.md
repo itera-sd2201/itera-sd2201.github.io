@@ -7,8 +7,8 @@ Sep 20
 <!--   : \[[videos](youtube.com)\] \[[slides](https://docs.google.com)\] -->
   
 Sep 22
-: **(tentatively) Exam 1**
-<!--   : \[[videos](youtube.com)\] \[[slides](https://docs.google.com)\] -->
+: **Exam 1**
+  : \[[practice exam](www.shortl.io/csci100-practice-exam1)\]
 <!-- : **Lab 1 due**{: .label .label-red } -->
 
 <!-- Sep 2
