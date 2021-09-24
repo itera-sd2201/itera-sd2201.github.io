@@ -13,7 +13,7 @@ Sep 15
 
 Sep 16
 : **Lab**{: .label .label-purple }Lab 4: Loops
-  : \[[slides](https://docs.google.com/presentation/d/164Zuv6pBf3LUsL6pMPmvqa7koCRePOJj7-x3J9eA4q4/edit#slide=id.p)\]
+  : \[[partial walkthrough/hint video](https://youtu.be/wMOxsdM8HK4)\] \[[slides](https://docs.google.com/presentation/d/164Zuv6pBf3LUsL6pMPmvqa7koCRePOJj7-x3J9eA4q4/edit#slide=id.p)\]
 
 <!-- 
 Sep 4
