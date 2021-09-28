@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  PythonTutor:
+    - 'https://pythontutor.com/composingprograms.html#mode=edit'
   Mimir:
     - 'https://class.mimir.io/courses/ea69c458-7197-4411-af4e-50754e398f64'
   Piazza:
