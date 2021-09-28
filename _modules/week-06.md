@@ -8,7 +8,7 @@ Sep 27
   
 Sep 29
 : **Lists**
-<!--   : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L29_eucVIY6vDewoz0DKEy6_)\] \[[slides](https://docs.google.com/presentation/d/1W96wOapKSZza6TBJMwFXl6XrsFUvWBDOpYzoaJwLQBw/edit?usp=sharing)\] -->
+  : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L29-owhexIGvYZYF4-hfRGbJ)\] \[[slides](https://docs.google.com/presentation/d/1PeP4c8g_KNrUYwQ0vxfD81FH4SdLV9ODjS369eHi6UU/edit?usp=sharing)\]
 
 Sep 30
 : **Lab**{: .label .label-purple }Lab 6: List Functions
