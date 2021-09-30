@@ -12,6 +12,7 @@ Sep 29
 
 Sep 30
 : **Lab**{: .label .label-purple }Lab 6: List Functions
+  : \[[slides](https://docs.google.com/presentation/d/1eVE-W03cMBNkCpRU3iBzp9Z6Fce7AbCl/edit?usp=sharing&ouid=105312008256795736262&rtpof=true&sd=true)\]
 
 <!-- 
 Sep 4
