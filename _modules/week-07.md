@@ -3,11 +3,11 @@ title: Week 7
 ---
 
 Oct 4
-: **Intro to Algorithms**
-<!--   : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L29_eucVIY6vDewoz0DKEy6_)\] \[[slides](https://docs.google.com/presentation/d/1W96wOapKSZza6TBJMwFXl6XrsFUvWBDOpYzoaJwLQBw/edit?usp=sharing)\] -->
+: **Input/Output**
+  : \[[videos](https://www.youtube.com/watch?v=O4cvuDXx8yw&list=PLr509y092L2_xEgUjdPCRvYh-bCyzJ6Oi)\] \[[slides](https://docs.google.com/presentation/d/1B59wFCjhJusWUbcpQjbti2mN6_jTiMois9yHz6-VBSM/edit?usp=sharing)\]
   
 Oct 6
-: **Algorithm Runtime, Big O**
+: **Intro to Algorithms**
 <!--   : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L29_eucVIY6vDewoz0DKEy6_)\] \[[slides](https://docs.google.com/presentation/d/1W96wOapKSZza6TBJMwFXl6XrsFUvWBDOpYzoaJwLQBw/edit?usp=sharing)\] -->
 
 Oct 7
