@@ -59,7 +59,7 @@ These details are subject to change during the semester, however the current pla
 - 2 Projects - more details to come
 
 ### Exams
-This course will have 3 exams, spaced evenly across the semester, with the third exam happening during finals week. More details on exam format, content, and dates will come during the semester.
+Instead of one midterm and one final exam, this course will have 3 exams, spaced evenly across the semester, with the third exam happening during finals week. Exam 1 will be on Wednesday, September 22nd. Exam 2 is planned for some time around week 10 of the course. Exam 3 will take place during finals week. 
 
 ### Cheating
 
