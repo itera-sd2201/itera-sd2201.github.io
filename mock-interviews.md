@@ -12,7 +12,7 @@ Use the button below to sign up for a mock interview slot with one of the Google
 
 [Schedule a Mock Interview](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1kU0hnS0VoOUM0fGRlZmF1bHR8NzVjM2ExNmY1YzBlZDE1YTE0MWMzODNhMDJlZWJjNzA){: .btn .btn-outline }
 
-
+If after one mock interview you want further experience, consider spending 2-3 weeks working on practice problems and then schedule a second session with a different interviewer.
 
 ## What will the mock interviews be like?
 
