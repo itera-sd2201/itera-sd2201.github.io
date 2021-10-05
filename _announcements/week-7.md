@@ -10,7 +10,7 @@ Read on below to understand how you did on the exam, where to find solutions, ho
 
 <ins>**Distribution**</ins>
 
-![image.png](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Ficguy5cby5q1ok%2F90fd37a2367ff474f13c05e757622b2ad55c136767c294533b89ef6392cd543e%2Fimage.png)
+You can see the distribution of the exam by clicking here [here](https://piazza.com/redirect/s3?bucket=uploads&prefix=paste%2Ficguy5cby5q1ok%2F90fd37a2367ff474f13c05e757622b2ad55c136767c294533b89ef6392cd543e%2Fimage.png)
 
 To help you understand how you're doing, we've come up with the following _approximate_ buckets (out of 106). Note that these buckets are just guidance for what level you're performing at. These are _not_ your final grade, nor are they your midterm grade. Your midterm grade may be lower or higher, based on a variety of factors.
 
@@ -40,7 +40,4 @@ Clobber Policy:
 *   If you didn't do as well as you had wanted on Midterm 1, we will be offering a way for you to recover points on midterm 1 based on your final exam score. More details to come later in the semester. 
 
 Best,
-
 CSCI100 Course Staff
-
-#pin
