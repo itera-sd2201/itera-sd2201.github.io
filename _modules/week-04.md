@@ -3,7 +3,7 @@ title: Week 4
 ---
 
 Sep 13
-: **Style, Conditionals, String Functions1**
+: **Style, Conditionals, String Functions**
   : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L28AOrUdphblWlh_sJYcu4RR){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/13KTDx14MZxZzPpZdDRpYj6zH468QUpQwzbLwhNFkGEQ/edit?usp=sharing){:target="_blank"}\]
   
 Sep 15
