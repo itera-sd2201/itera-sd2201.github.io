@@ -6,7 +6,7 @@ Sep 6
 : No lecture meeting - Labor Day
   
 Sep 8
-: All campus classes cancelled1
+: All campus classes cancelled
   : \[[Replit Video Tutorial](https://www.youtube.com/playlist?list=PLr509y092L2-LMpav-PeEOhK_kCBJg3ke){:target="_blank"}\]
 
 Sep 9
