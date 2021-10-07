@@ -3,12 +3,12 @@ title: Week 7
 ---
 
 Oct 4
-: **Input/Output**
-  : \[[videos](https://www.youtube.com/watch?v=O4cvuDXx8yw&list=PLr509y092L2_xEgUjdPCRvYh-bCyzJ6Oi)\] \[[slides](https://docs.google.com/presentation/d/1B59wFCjhJusWUbcpQjbti2mN6_jTiMois9yHz6-VBSM/edit?usp=sharing)\]
+: **Input/Output1**
+  : \[[videos](https://www.youtube.com/watch?v=O4cvuDXx8yw&list=PLr509y092L2_xEgUjdPCRvYh-bCyzJ6Oi){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1B59wFCjhJusWUbcpQjbti2mN6_jTiMois9yHz6-VBSM/edit?usp=sharing){:target="_blank"}\]
   
 Oct 6
 : **Dictionaries**
-  : \[[videos](https://www.youtube.com/watch?v=gtahfFazyrI&list=PLr509y092L28TN5TjP0WMXipT7catzx5r)\] \[[slides](https://docs.google.com/presentation/d/1rpxAgHnxYmmnVXo0akVPwkuMc4C11DwvPTAiWWz8mlM/edit?usp=sharing)\]
+  : \[[videos](https://www.youtube.com/watch?v=gtahfFazyrI&list=PLr509y092L28TN5TjP0WMXipT7catzx5r){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1rpxAgHnxYmmnVXo0akVPwkuMc4C11DwvPTAiWWz8mlM/edit?usp=sharing){:target="_blank"}\]
 
 Oct 7
 : **Lab**{: .label .label-purple }Lab 7: Book Analysis
