@@ -3,7 +3,7 @@ title: Week 7
 ---
 
 Oct 4
-: **Input/Output1**
+: **Input/Output**
   : \[[videos](https://www.youtube.com/watch?v=O4cvuDXx8yw&list=PLr509y092L2_xEgUjdPCRvYh-bCyzJ6Oi){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1B59wFCjhJusWUbcpQjbti2mN6_jTiMois9yHz6-VBSM/edit?usp=sharing){:target="_blank"}\]
   
 Oct 6
