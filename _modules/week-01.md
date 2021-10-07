@@ -3,7 +3,7 @@ title: Week 1
 ---
 
 Aug 23
-: **Intro, Logistics, Computers1**
+: **Intro, Logistics, Computers**
   : \[[videos](https://youtube.com/playlist?list=PLr509y092L29Yfu6uie3T0ArYdJsuKpeQ){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1m9p5e73UTnzH_EJavD-LOwySGsiYUBxfEZX8bIiQLOs/edit?usp=sharing){:target="_blank"}\]
 : **HW**{: .label .label-blue }Released: [HW1: Tell us about you](https://class.mimir.io/assignments/95a2b71a-ac15-4b1b-9380-16a9d5340e49)
   
