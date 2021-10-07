@@ -3,7 +3,7 @@ title: Week 6
 ---
 
 Sep 27
-: **Functions Pt. 2, Scope1**
+: **Functions Pt. 2, Scope**
   : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L29_eucVIY6vDewoz0DKEy6_){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1W96wOapKSZza6TBJMwFXl6XrsFUvWBDOpYzoaJwLQBw/edit?usp=sharing){:target="_blank"}\]
   
 Sep 29
