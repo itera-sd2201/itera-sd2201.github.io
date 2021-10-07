@@ -52,6 +52,6 @@ There are a lot of opportunities for technology internships designed specificall
 - [Pinterest Engage Scholars Program** (application in spring)](https://www.pinterestcareers.com/early-career/apprenticeship-development-programs/)
 
 ## Creating a resume
-You can use [creddle.o](http://creddle.io/) for free resume templates! 
+You can use [creddle.io](http://creddle.io/) for free resume templates! 
 
 You can also reach out to Nathan Lupstein, the Google recruiter for Howard, for help with creating a resume or reviewing the resume that you've created. His email is nlupstein@google.com.
