@@ -36,6 +36,7 @@ aux_links:
     - 'https://piazza.com/class/ksjaetb15k147d'
   Blackboard:
     - 'http://blackboard.howard.edu/'
+aux_links_new_tab: true
 footer_content:
 
 # Collections for website data
