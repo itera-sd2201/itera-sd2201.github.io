@@ -12,6 +12,7 @@ Oct 6
 
 Oct 7
 : **Lab**{: .label .label-purple }Lab 7: Book Analysis
+  : \[[slides](https://docs.google.com/presentation/d/1OO2dDkgg-jnORuDu9wpxHz71IdZAfrvO/){:target="_blank"}\]
 
 <!-- 
 Sep 4
