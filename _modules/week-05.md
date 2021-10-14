@@ -12,3 +12,4 @@ Sep 22
 
 Sep 23
 : **Lab**{: .label .label-purple }Lab 5: Functions
+  : \[[slides](https://docs.google.com/presentation/d/18uPGX9C5uCIPMcqBF5h-3V7CRMUUJT0O/edit){:target="_blank"}\]
