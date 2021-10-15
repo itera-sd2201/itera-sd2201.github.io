@@ -17,6 +17,7 @@ Afterwards, your interviewer will provide you with feedback as well as tips on h
 ### What are some good resources to help you prepare?
 
 - Review [content learned in class](https://csci100.org/calendar/){:target="_blank"}
+- [CodingBat Practice Problems](https://codingbat.com/python){:target="_blank"} has good warmup problems to practice with
 - [Cracking the Coding Interview](https://www.crackingthecodinginterview.com/){:target="_blank"} is a solid book to learn or review core CS concepts and how to use them in interviews 
 - [LeetCode](https://leetcode.com/){:target="_blank"} and [HackerRank](https://www.hackerrank.com/){:target="_blank"} have tons of practice questions with automatic testing
 
