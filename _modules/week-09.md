@@ -3,7 +3,7 @@ title: Week 9
 ---
 
 Oct 18
-: **Intro to Algorithms, Examples**
+: **Destructive vs Non-Destructive Functions**
 <!--   : \[[videos](https://www.youtube.com/watch?v=hEh_6otWzNs&list=PLr509y092L2_ItskZ_UzAgqlLAUyt8lsx){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1kQFgkOya5f5Wu_m1xU1bkvn9mgitId2v-tZZ7Mv7Qiw/edit?usp=sharing){:target="_blank"}\] -->
   
 Oct 20
