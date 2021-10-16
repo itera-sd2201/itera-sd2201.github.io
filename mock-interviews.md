@@ -27,7 +27,7 @@ Afterwards, your interviewer will provide you with feedback as well as tips on h
 
 ### Mock Interviews with CSCI100 Google TAs
 
-Use the button below to sign up for a mock interview slot with one of the Google TAs. Click on one of the empty appointment slots and click save to book it. You may do **at most 2 mock interviews**, to ensure that there are enough interviews avaialble for your classmaters. Please watch [this video talk](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} before your mock interview to get the most out of the mock interview experience. 
+Use the button below to sign up for a mock interview slot with one of the Google TAs. Click on one of the empty appointment slots and click save to book it. You may do **at most 2 mock interviews**, to ensure that there are enough interviews avaialble for your classmaters. Please watch [this video talk on how to interview](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} before your mock interview to get the most out of the mock interview experience. 
 
 [Schedule a Mock Interview](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1kU0hnS0VoOUM0fGRlZmF1bHR8NzVjM2ExNmY1YzBlZDE1YTE0MWMzODNhMDJlZWJjNzA){: .btn .btn-outline }
 
