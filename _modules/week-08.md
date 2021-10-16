@@ -12,7 +12,7 @@ Oct 13
 
 Oct 14
 : **Project**{: .label .label-green }Proj 1: Instagram Filters Project
-  : \[[slides](https://docs.google.com/presentation/d/1jwmbssoMB2YiRlvN5ruEnothRDbr-ZYa/edit){:target="_blank"}\]
+  : \[[slides](https://docs.google.com/presentation/d/1jwmbssoMB2YiRlvN5ruEnothRDbr-ZYa/edit){:target="_blank"}\] \[[submission instruction video](https://www.youtube.com/watch?v=y9nXi7HgSQ4){:target="_blank"}\]
 
 <!-- 
 Sep 4
