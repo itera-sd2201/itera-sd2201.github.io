@@ -6,6 +6,10 @@ description: Description of mock interviews and how to sign up for interviews
 # Mock Interview
 In addition to hosting office hours, our Google Engineers on course staff will provide free mock interviews to you based on the material that you've learned in the class and the requirements of the STEP internship. 
 
+### What are real interviews like? Advice and Tips/Tricks?
+
+Watch [this video talk](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} given by Marc Cohen at Howard this semester. You can find the [slides here](mco.fyi/interview){:target="_blank"}.
+
 ### What will the mock interviews be like?
 
 The goal of the interviews is to simulate what real technical interviews may be like with various companies, so you can better understand what to expect. The goal of these interviews specifically is *not* to teach you brand new content (e.g. a question requires a data structure but you’ve never heard of it before), so please tell your mock interviewer if they are asking you something you haven’t learned yet.
@@ -23,7 +27,7 @@ Afterwards, your interviewer will provide you with feedback as well as tips on h
 
 ### Mock Interviews with CSCI100 Google TAs
 
-Use the button below to sign up for a mock interview slot with one of the Google TAs. Click on one of the empty appointment slots and click save to book it. You may do **at most 2 mock interviews**, to ensure that there are enough interviews avaialble for your classmaters. 
+Use the button below to sign up for a mock interview slot with one of the Google TAs. Click on one of the empty appointment slots and click save to book it. You may do **at most 2 mock interviews**, to ensure that there are enough interviews avaialble for your classmaters. Please watch [this video talk](https://www.youtube.com/watch?v=FG5860rWppA){:target="_blank"} before your mock interview to get the most out of the mock interview experience. 
 
 [Schedule a Mock Interview](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UU1kU0hnS0VoOUM0fGRlZmF1bHR8NzVjM2ExNmY1YzBlZDE1YTE0MWMzODNhMDJlZWJjNzA){: .btn .btn-outline }
 
