@@ -3,7 +3,7 @@ title: Week 15
 ---
 
 Nov 22
-: **TBD**
+: **Software Engineer Toolkit: Linux, Git, VSCode, Stackoverflow, Jira**
 <!--   : \[[videos](https://www.youtube.com/watch?v=hEh_6otWzNs&list=PLr509y092L2_ItskZ_UzAgqlLAUyt8lsx){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1kQFgkOya5f5Wu_m1xU1bkvn9mgitId2v-tZZ7Mv7Qiw/edit?usp=sharing){:target="_blank"}\] -->
   
 Nov 24
