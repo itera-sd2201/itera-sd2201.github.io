@@ -3,11 +3,11 @@ title: Week 10
 ---
 
 Oct 25
-: **Intro to Algorithms**
-<!--   : \[[videos](https://www.youtube.com/watch?v=hEh_6otWzNs&list=PLr509y092L2_ItskZ_UzAgqlLAUyt8lsx){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1kQFgkOya5f5Wu_m1xU1bkvn9mgitId2v-tZZ7Mv7Qiw/edit?usp=sharing){:target="_blank"}\] -->
+: **Pass-by-Reference vs Pass-by-Value**
+  : \[[videos](https://www.youtube.com/watch?v=gOFzQTPwbeQ&list=PLr509y092L283wMKL2TxAx9PMFQN02Dn3){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1R5wmBVzt5hYFmrZvYaNO0WicwignksK7pPPZ6bfcXnE/edit?usp=sharing){:target="_blank"}\]
   
 Oct 27
-: **Algorithmic Efficiency**
+: **Intro to Algorithms**
 <!--   : \[[videos](https://www.youtube.com/watch?v=FgG4Z-EF2rA&list=PLr509y092L29bsGJRZ9H7dOdsHsmP3_Mg){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1RnyQmG90ca23E154PZ92oua1yY3eiscgaRJldOFGIfg/edit?usp=sharing){:target="_blank"}\] -->
 
 Oct 28
