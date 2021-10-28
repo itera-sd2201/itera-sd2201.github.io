@@ -23,8 +23,9 @@ By the end of the course, students will learn
  - Input/Output
  - Logic and Control Flow
  - Functions
- - Recursion
- - Basic algorithms, runtime and efficiency
+ - Testing, Asserts
+ - Algorithms
+ - Runtime and efficiency
  - Objects and Classes
  - Sets and Dictionaries
 
@@ -48,18 +49,29 @@ As a course, we commit to making sure no student fails the class due to lack of 
 ## Policies
 
 ### Grades
-The class will *not* be curved. Instead, your grade will be based on buckets that are yet to be released, which will be set based on the difficulty of the exams, quizzes, projects, labs, and homework towards the end of the semester.
+The class will *not* be curved. Instead, your final grade will be based on buckets of your overall score in the class that will be decided at the end of the semester based on the difficulty of the exams, quizzes, projects, labs, and homework.
+
+Your overall grade will be calculated using the following relative weights:
+
+| Assignment Type | # of Assignments | Number Dropped | Weight in Overall Grade |
+|:-------------|:------------------|:------|:------|
+| Midterm Exam(s) | 2 | 0  | 23% |
+| Final Exam | 1 | 0  | 17% |
+| Homeworks | 5 | 0  | 15% |
+| Labs | 12 | 2  | 23% |
+| Projects | 2 | 0 | 17% |
+| Quiz | 8 | 1 | 5% |
 
 ### Assignments
 These details are subject to change during the semester, however the current plan of record is the following:
 
-- 13 Quizzes - random time during lecture time, once a week. 
-- 13 Labs - 1x per week. Work w/ partners, submit individually
-- 7 Homeworks - spread throughout the semester. Work individually, submit individually.
-- 2 Projects - more details to come
+- ~8 Quizzes - random time during lecture time, once a week. 
+- 12 Labs - 1x per week. Work w/ partners, submit individually
+- 5 Homeworks - spread throughout the semester. Work individually, submit individually.
+- 2 Projects - Image Filters and Search Engine
 
 ### Exams
-Instead of one midterm and one final exam, this course will have 3 exams, spaced evenly across the semester, with the third exam happening during finals week. Exam 1 will be on Wednesday, September 22nd. Exam 2 is planned for some time around week 10 of the course. Exam 3 will take place during finals week. 
+Instead of one midterm and one final exam, this course will have 3 exams, spaced evenly across the semester, with the third exam happening during finals week. Exam 1 will be on Wednesday, September 22nd. Exam 2 is will be on Monday, November 1st. Exam 3 will take place during finals week. 
 
 ### Cheating
 
