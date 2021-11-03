@@ -8,10 +8,10 @@ Nov 1
   
 Nov 3
 : **Time/Space Complexity, Big O**
-<!--   : \[[videos](https://www.youtube.com/watch?v=FgG4Z-EF2rA&list=PLr509y092L29bsGJRZ9H7dOdsHsmP3_Mg){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1RnyQmG90ca23E154PZ92oua1yY3eiscgaRJldOFGIfg/edit?usp=sharing){:target="_blank"}\] -->
+  : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L28Hvb7rJ_fPB4yYfjaUXbPY){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1SSou5AfKdTmlx8bcHDUFoFbzaZKQgui38InGVQIMOWs/edit?usp=sharing){:target="_blank"}\]
 
 Nov 4
-: **Lab**{: .label .label-purple }Lab 10: TBD
+: **Lab**{: .label .label-purple }Lab 10: Big O, Complexity
 <!--   : \[[slides](https://docs.google.com/presentation/d/1jwmbssoMB2YiRlvN5ruEnothRDbr-ZYa/edit){:target="_blank"}\] -->
 
 <!-- 
