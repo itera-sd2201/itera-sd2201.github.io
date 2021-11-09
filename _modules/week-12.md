@@ -8,7 +8,7 @@ Nov 8
   
 Nov 10
 : **Computer Science Ethics**
-<!--   : \[[videos](https://www.youtube.com/watch?v=FgG4Z-EF2rA&list=PLr509y092L29bsGJRZ9H7dOdsHsmP3_Mg){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1RnyQmG90ca23E154PZ92oua1yY3eiscgaRJldOFGIfg/edit?usp=sharing){:target="_blank"}\] -->
+  : \[[videos](https://www.youtube.com/watch?v=U8M4DlCE2ms&list=PLr509y092L2-kWHnoHwfBaKfZrwygI5uI){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1NSx1UcpjLoAfhDtbwvqc0ztrTTYowHYRAvHdKtTvfbs/edit?usp=sharing){:target="_blank"}\]
 
 Nov 11
 : No Class, Veterans Day
