@@ -70,6 +70,8 @@ These details are subject to change during the semester, however the current pla
 - 5 Homeworks - spread throughout the semester. Work individually, submit individually.
 - 2 Projects - Image Filters and Search Engine
 
+Assignments will be due at 11:59pm, with a 10% penalty per each day that the assignment is late up to 5 days total.
+
 ### Exams
 Instead of one midterm and one final exam, this course will have 3 exams, spaced evenly across the semester, with the third exam happening during finals week. Exam 1 will be on Wednesday, September 22nd. Exam 2 is will be on Monday, November 1st. Exam 3 will take place during finals week. 
 
