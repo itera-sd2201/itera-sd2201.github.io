@@ -8,7 +8,7 @@ Nov 15
   
 Nov 17
 : **Syntactic Sugar: Comprehensions, Unpacking, Ternary Operator**
-  : \[[videos](https://www.youtube.com/watch?v=FgG4Z-EF2rA&list=PLr509y092L29bsGJRZ9H7dOdsHsmP3_Mg){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1qhHWso0J6aPAeegC03z_kh_SqY-VowCHbV-5rKvwo2w/edit?usp=sharing){:target="_blank"}\]
+  : \[[videos](https://www.youtube.com/watch?v=SaOY01dmWcY&list=PLr509y092L2_ihS1HiC3K9SsHoI7FoM2q){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1qhHWso0J6aPAeegC03z_kh_SqY-VowCHbV-5rKvwo2w/edit?usp=sharing){:target="_blank"}\]
 
 Nov 18
 : **Lab**{: .label .label-purple } Lab 11: Syntactic Sugar
