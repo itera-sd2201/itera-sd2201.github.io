@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  YouTube Channel:
+    - 'https://www.youtube.com/channel/UCS-xiMGMN9YsMxQnqAai4hw/featured'
   PythonTutor:
     - 'https://pythontutor.com/composingprograms.html#mode=edit'
   Mimir:
