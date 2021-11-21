@@ -43,6 +43,8 @@ The Brilliant Black Minds program from Karat offers students access to 4 free pr
 
 ## Career Info 
 
+Here's a [playlist of the career talks given this semester](https://www.youtube.com/playlist?list=PLr509y092L2-E3SicuWbxONv0KXpnAVeg), which cover UX Design, Data Analyst, Product Management roles, and more.
+
 ### Internship Opportunities for Freshmen/Sophomores
 
 There are a lot of opportunities for technology internships designed specifically for freshmen! Even if you don’t have much programming experience, you should definitely apply. You also shouldn’t limit yourself to freshman programs because you are eligible to apply for most internships open to undergraduates.
