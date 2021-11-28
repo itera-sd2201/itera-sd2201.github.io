@@ -4,7 +4,7 @@ title: Week 15
 
 Nov 29
 : **Classes, Attributes, Object-Oriented Programming**
-<!--   : \[[videos](https://www.youtube.com/watch?v=hEh_6otWzNs&list=PLr509y092L2_ItskZ_UzAgqlLAUyt8lsx){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1kQFgkOya5f5Wu_m1xU1bkvn9mgitId2v-tZZ7Mv7Qiw/edit?usp=sharing){:target="_blank"}\] -->
+  : \[[videos](https://www.youtube.com/watch?v=l_n_7mOqqjs&list=PLr509y092L2-MCB4jp69GroroUFjr7F1u){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1cJXqJTnfRHZgH4L6O_lPXJ6k10K1Hq-WDb8LPzm8PE8/edit?usp=sharing){:target="_blank"}\]
   
 Dec 1
 : **Class Methods, In Closing, What's Next**
