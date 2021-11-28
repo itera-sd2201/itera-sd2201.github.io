@@ -9,6 +9,13 @@ description: A page containing all submissions for the filter competition.
 
 Filters to be added here.
 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter1-1a.jpg" alt="drawing" width="200"/> | <img src="/assets/images/filter1-1b.jpg" alt="drawing" width="200"/> |
+| <img src="/assets/images/filter1-2a.jpg" alt="drawing" width="200"/> | <img src="/assets/images/filter1-2b.jpg" alt="drawing" width="200"/> |
+
+
 <img src="/assets/images/filter1-1a.jpg" alt="drawing" width="200"/>
 <img src="/assets/images/filter1-1b.jpg" alt="drawing" width="200"/>
 <img src="/assets/images/filter1-2a.jpg" alt="drawing" width="200"/>
