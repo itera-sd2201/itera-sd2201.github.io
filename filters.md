@@ -7,12 +7,12 @@ description: A page containing all submissions for the filter competition.
 
 # Filter Competition
 
-**Title**: Bugs
-**Creator**: Daniel Webster
-**Description**: This filter randomly places three bugs on a picture and slightly changes the red pixel values of the image.
+**Title**: Bugs <br /> 
+**Creator**: Daniel Webster <br /> 
+**Description**: This filter randomly places three bugs on a picture and slightly changes the red pixel values of the image. <br /> 
 
 
-<u>Demo</u>:
+<u>Demo</u>: <br /> 
 | Without Filter | With Filter |
 |:-------------|:------------------|
 | <img src="/assets/images/filter1-1a.jpg" alt="drawing" width="200"/> | <img src="/assets/images/filter1-1b.jpg" alt="drawing" width="200"/> |
