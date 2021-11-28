@@ -9,8 +9,9 @@ description: A page containing all submissions for the filter competition.
 
 Filters to be added here.
 
-![](https://csci100.org/assets/images/filter1-1a.jpg =250x)
-![](https://csci100.org/assets/images/filter1-1b.jpg =250x)
-![](https://csci100.org/assets/images/filter1-2a.jpg =250x)
-![](https://csci100.org/assets/images/filter1-2b.jpg =250x)
+<img src="/assets/images/filter1-1a.jpg" alt="drawing" width="200"/>
+![](https://csci100.org/assets/images/filter1-1a.jpg)
+![](https://csci100.org/assets/images/filter1-1b.jpg)
+![](https://csci100.org/assets/images/filter1-2a.jpg)
+![](https://csci100.org/assets/images/filter1-2b.jpg)
 
