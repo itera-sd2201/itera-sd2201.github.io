@@ -7,7 +7,7 @@ description: A page containing all submissions for the filter competition.
 
 # Filter Competition
 
-Filters to be added here.
+**Title**: Alex
 
 
 | Without Filter | With Filter |
