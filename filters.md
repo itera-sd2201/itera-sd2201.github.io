@@ -13,6 +13,7 @@ description: A page containing all submissions for the filter competition.
 
 
 <u>Demo</u>: <br /> 
+
 | Without Filter | With Filter |
 |:-------------|:------------------|
 | <img src="/assets/images/filter1-1a.jpg" alt="drawing" width="200"/> | <img src="/assets/images/filter1-1b.jpg" alt="drawing" width="200"/> |
