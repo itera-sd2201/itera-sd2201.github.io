@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Filter Competition
+title: Filter Gallery
 nav_exclude: true
-description: A page containing all submissions for the filter competition.
+description: A page containing all custom filter submissions for the filter competition.
 ---
 
 # Filter Competition
