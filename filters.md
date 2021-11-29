@@ -157,7 +157,6 @@ description: A page containing all submissions for the filter competition.
 | Without Filter | With Filter |
 |:-------------|:------------------|
 | <img src="/assets/images/filter12-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter12-1b.jpg" alt="drawing" width="375"/> |
-| <img src="/assets/images/filter12-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter12-2b.jpg" alt="drawing" width="375"/> |
 
 <hr>
 
@@ -171,6 +170,5 @@ description: A page containing all submissions for the filter competition.
 | Without Filter | With Filter |
 |:-------------|:------------------|
 | <img src="/assets/images/filter13-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter13-1b.jpg" alt="drawing" width="375"/> |
-| <img src="/assets/images/filter13-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter13-2b.jpg" alt="drawing" width="375"/> |
 
 <hr>
