@@ -104,3 +104,73 @@ description: A page containing all submissions for the filter competition.
 | <img src="/assets/images/filter7-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter7-2b.jpg" alt="drawing" width="375"/> |
 
 <hr>
+
+**Title**: Flip it Real Good <br /> 
+**Creator**: Morgan Thornton <br /> 
+**Description**: This filter makes a reflection of the image. It does this by taking the top part of the image, rotating it 90 and 180 degrees and putting it as the bottom part of the same image.  <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter8-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter8-1b.jpg" alt="drawing" width="375"/> |
+| <img src="/assets/images/filter8-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter8-2b.jpg" alt="drawing" width="375"/> |
+
+<hr>
+
+**Title**: Pick a Color <br /> 
+**Creator**: Morgan M <br /> 
+**Description**: The pick_a_color filter asks the user to input a color from the given list(red, orange, yellow, green, light green, blue, cyan, turquoise, purple, violet, pink, magenta) and returns the image with that color filter over it.  <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter9-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter9-1b.jpg" alt="drawing" width="375"/> |
+| <img src="/assets/images/filter9-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter9-2b.jpg" alt="drawing" width="375"/> |
+
+<hr>
+
+**Title**: Blue-Red <br /> 
+**Creator**: Echefu Donald <br /> 
+**Description**: The filter makes the red in the image blue and vice versa.  <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter11-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter11-1b.jpg" alt="drawing" width="375"/> |
+| <img src="/assets/images/filter11-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter11-2b.jpg" alt="drawing" width="375"/> |
+
+<hr>
+
+**Title**: Pop <br /> 
+**Creator**: Mary Elei Nkata <br /> 
+**Description**: This function reduces images to just their red green and blue shades.  <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter12-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter12-1b.jpg" alt="drawing" width="375"/> |
+| <img src="/assets/images/filter12-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter12-2b.jpg" alt="drawing" width="375"/> |
+
+<hr>
+
+**Title**: Highlight <br /> 
+**Creator**: Mary Elei Nkata <br /> 
+**Description**: This function brigthens the lighter colours and darkens the darker colours thereby highlighting the image  <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter13-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter13-1b.jpg" alt="drawing" width="375"/> |
+| <img src="/assets/images/filter13-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter13-2b.jpg" alt="drawing" width="375"/> |
+
+<hr>
