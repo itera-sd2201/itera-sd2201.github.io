@@ -62,3 +62,45 @@ description: A page containing all submissions for the filter competition.
 | <img src="/assets/images/filter4-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter4-2b.jpg" alt="drawing" width="375"/> |
 
 <hr>
+
+**Title**: Bred <br /> 
+**Creator**: Emmanuel Buckman <br /> 
+**Description**: This filter takes in am image and returns it with the red and blue pixels flipped to create a 'bred' contrast.  <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter5-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter5-1b.jpg" alt="drawing" width="375"/> |
+| <img src="/assets/images/filter5-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter5-2b.jpg" alt="drawing" width="375"/> |
+
+<hr>
+
+**Title**: Handsketch Filter <br /> 
+**Creator**: Shadow Hokage <br /> 
+**Description**: This filter makes the image look like it's drawn with hand. The handsketch is not complete though. The borders are fine, but it doesn't catch small details. It gives a generic overview of how a handsketched version of that image would look, but doesn't achieve the full handsketch quality.  <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter6-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter6-1b.jpg" alt="drawing" width="375"/> |
+| <img src="/assets/images/filter6-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter6-2b.jpg" alt="drawing" width="375"/> |
+
+<hr>
+
+**Title**: Mirror Image <br /> 
+**Creator**: Hrishav Sapkota <br /> 
+**Description**: This filter makes the image look like it's the mirror image of the original image. It does this by flipping the image from left to right, i.e., changing the orientation of the columns in the image matrix.  <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter7-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter7-1b.jpg" alt="drawing" width="375"/> |
+| <img src="/assets/images/filter7-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter7-2b.jpg" alt="drawing" width="375"/> |
+
+<hr>
