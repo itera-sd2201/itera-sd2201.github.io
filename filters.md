@@ -9,7 +9,7 @@ description: A page containing all custom filter submissions for the filter comp
 
 Welcome to the CSCI100 Image Filter gallery! All of the below submissions were custom-made by students in CSCI100. Students were tasked with designing and implementing an algorithm to modify a given image and apply some creative filter of their choosing. 
 
-Please look through them all, and vote using the form at www.shortl.io/csci100-filter-vote. The top 3 filters as selected by voters will receive extra-extra-credit. All submissions will receive some baseline extra-credit.
+Please look through them all, and vote using the form at [shortl.io/csci100-filter-vote](https://www.shortl.io/csci100-filter-vote) by Friday, December 3rd at midnight. The top 3 filters as selected by voters will receive extra-extra-credit. All submissions will receive some baseline extra-credit.
 
 ## Submissions
 
