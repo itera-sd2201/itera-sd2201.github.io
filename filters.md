@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Filter Gallery
-nav_exclude: true
+nav_exclude: false
 description: A page containing all custom filter submissions for the filter competition.
 ---
 
@@ -130,6 +130,21 @@ description: A page containing all custom filter submissions for the filter comp
 |:-------------|:------------------|
 | <img src="/assets/images/filter9-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter9-1b.jpg" alt="drawing" width="375"/> |
 | <img src="/assets/images/filter9-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter9-2b.jpg" alt="drawing" width="375"/> |
+
+<hr>
+
+**Title**: Proud Jamaican <br /> 
+**Creator**: Angelica Stewart <br /> 
+**Description**: This filter adds the the words Proud Jamaican at the top of the image. It does this by adding a picture of the the words "Proud Jamaican" that was self created. <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter10-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter10-1b.jpg" alt="drawing" width="375"/> |
+
+<hr>
 
 <hr>
 
