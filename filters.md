@@ -183,7 +183,7 @@ Please look through them all, and vote using the form at [shortl.io/csci100-filt
 
 **Title**: Highlight <br /> 
 **Creator**: Mary Elei Nkata <br /> 
-**Description**: This function brigthens the lighter colours and darkens the darker colours thereby highlighting the image  <br /> 
+**Description**: This function brigthens the lighter colours and darkens the darker colours thereby highlighting the image.  <br /> 
 
 
 <u>Demo</u>: <br /> 
@@ -191,5 +191,19 @@ Please look through them all, and vote using the form at [shortl.io/csci100-filt
 | Without Filter | With Filter |
 |:-------------|:------------------|
 | <img src="/assets/images/filter13-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter13-1b.jpg" alt="drawing" width="375"/> |
+
+<hr>
+
+**Title**: Drag <br /> 
+**Creator**: Tyler Castle <br /> 
+**Description**: The filter takes areas of similar color and drags them down. This results in a "glitchy" effect to the image.  <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter14-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter14-1b.jpg" alt="drawing" width="375"/> |
+| <img src="/assets/images/filter14-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter14-2b.jpg" alt="drawing" width="375"/> |
 
 <hr>
