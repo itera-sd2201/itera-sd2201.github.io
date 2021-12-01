@@ -4,8 +4,8 @@ week: 15
 date: 2021-12-01
 ---
 
-I've created the extra-credit filters gallery and put it up on the website. You can find it at [https://csci100.org/filters/](https://csci100.org/filters/)
+The final exam will be on **Tuesday, December 7th, from 7pm-9pm** on Zoom, use the link [shortl.io/csci100-exam](https://shortl.io/csci100-exam) to join the exam. It will be 1 hour and 50 minutes long, and will be a comprehensive exam. **If you have a conflict with this time, you must let me know by Saturday, December 4th at midnight by emailing akrentsel@csci100.org and cc-ing vijay.chaudhary@csci100.org**. As before, the exam will be on Mimir and strictly closed-book.
 
-Please take a look and then vote on your top 3 favorite filters at [www.shortl.io/csci100-filter-vote](www.shortl.io/csci100-filter-vote) by Friday, December 3rd at 11:59pm. The winners will receive some extra-extra credit.
+As for the clobber policy, here are the details of how it will be implemented:
 
-Thanks to everyone who submitted filters. If you made a custom filter but didn't send me before/after demo images, email me at akrentsel@csci100.org so I we can get your submission on the gallery page (and so I can give you extra credit).
+If you get a higher grade on the final exam than on either of your midterms, your final exam score will replace the lower of your two midterm scores. Note that this will be done taking into account the different buckets on each exam, rather than just using absolute percentages. Meaning if you score a high B on the final, that will replace your lowest midterm score (if it is below a high B) with a high B for that midterm. 
