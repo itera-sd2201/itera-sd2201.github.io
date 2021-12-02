@@ -4,4 +4,4 @@ title: Week 16
 
 Dec 7
 : **Final Exam**: 7pm-9pm
-  : \[[practice exam](www.shortl.io/csci100-final-exam-review){:target="_blank"}\]
+  : \[[practice exam](https://www.shortl.io/csci100-final-exam-review){:target="_blank"}\]
