@@ -207,3 +207,15 @@ Please look through them all, and vote using the form at [shortl.io/csci100-filt
 | <img src="/assets/images/filter14-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter14-2b.jpg" alt="drawing" width="375"/> |
 
 <hr>
+
+**Title**: Eyezdout <br /> 
+**Creator**: Rickelle Jones <br /> 
+**Description**: This filter makes the image look like if  andy warhol was from the 2100s and was too raw with it edition. It does this by adding a threshold filter then adding a grey filter.  <br /> 
+
+
+<u>Demo</u>: <br /> 
+
+| Without Filter | With Filter |
+|:-------------|:------------------|
+| <img src="/assets/images/filter15-1a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter15-1b.jpg" alt="drawing" width="375"/> |
+| <img src="/assets/images/filter15-2a.jpg" alt="drawing" width="375"/> | <img src="/assets/images/filter15-2b.jpg" alt="drawing" width="375"/> |
