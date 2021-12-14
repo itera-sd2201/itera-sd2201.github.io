@@ -5,7 +5,7 @@ description: Listing of course modules and topics.
 ---
 
 # Calendar
-This calendar will be updated each time new lecture videos or assignments are released. Each week outline will be added the week before, any future topics or assignments are subject to change.
+This calendar outlines all topics of the course and has links to all lecture videos and slides.
 
 {% for module in site.modules %}
 {{ module }}
