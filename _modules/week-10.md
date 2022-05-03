@@ -11,7 +11,7 @@ Oct 27
   : \[[videos](https://youtube.com/playlist?list=PLr509y092L2-HIpgk8TCQ1_TvDkMeNuNM){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1n-UWUrAZHKWxumE9UbV64dLYSFgFyXs0gCF8YmrnbY8/edit?usp=sharing){:target="_blank"}\]
 
 Oct 28
-: **Lab**{: .label .label-purple }Lab 9: TBD
+: **Lab**{: .label .label-purple }Lab 9: Potpourri Practice
 <!--   : \[[slides](https://docs.google.com/presentation/d/1jwmbssoMB2YiRlvN5ruEnothRDbr-ZYa/edit){:target="_blank"}\] -->
 
 <!-- 
