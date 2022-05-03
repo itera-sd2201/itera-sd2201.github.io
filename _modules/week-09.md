@@ -11,7 +11,7 @@ Oct 20
   : \[[videos](https://www.youtube.com/watch?v=IZ2emfy5DV4&list=PLr509y092L2_MUaD2KcGKwaN3QGpkR1us){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1U10UKh1mmdio0Yb1ZjsihQAo-Ad4TCVF2zHUyD9C0QA/edit?usp=sharing){:target="_blank"}\]
 
 Oct 21
-: **Lab**{: .label .label-purple }Lab 8: TBD
+: **Lab**{: .label .label-purple }Lab 8: Cancelled
 <!--   : \[[slides](https://docs.google.com/presentation/d/1jwmbssoMB2YiRlvN5ruEnothRDbr-ZYa/edit){:target="_blank"}\] -->
 
 <!-- 
