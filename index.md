@@ -34,4 +34,4 @@ Lihat [silabus](syllabus.md) untuk lebih rinci.
 {% for module in all_modules limit:num_recent_modules %}
   {{ module }}
 {% endfor %}
-[Lihat semua modul](calender.md){: .btn .btn-outline }
+[Lihat semua modul](calendar.md){: .btn .btn-outline }
