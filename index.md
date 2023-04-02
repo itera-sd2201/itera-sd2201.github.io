@@ -4,7 +4,7 @@ title: Home
 nav_exclude: true
 seo:
   type: Course
-  name: CSCI100 Howard
+  name: SD2201 ITERA
 ---
 
 # {{ site.tagline }}
@@ -19,11 +19,26 @@ seo:
 
 ## About the Class
 
-CSCI100 is an introductory class designed for students with no formal exposure to computer science or programming. The goal is to provide a gentle but thorough introduction to computer science that will prepare students to either take further computer science courses, or use computer science in their field of study.
+Mata kuliah ini memberikan pemahaman dasar dan memodelkan permasalahan pemrograman menggunakan konsep pemrograman berbasis fungi untuk penyelesaian suatu permasalahan dengan implementasi menggunakan bahasa Python.
 
 See the [Syllabus page](syllabus.md) for more details on course policies.
 
 ## Course Materials
 {% for module in site.modules %}
 {{ module }}
+{% endfor %}
+
+## Recent Announcements
+{% assign num_recent_announcements = 2 %}
+{% assign all_announcements = site.announcements | sort: "date" | reverse %}
+{% for announcement in all_announcements limit:num_recent_announcements %}
+  {{ announcement }}
+{% endfor %}
+[See All Announcements](#all-announcements){: .btn .btn-outline }
+
+## Week 10 Schedule
+{: #weekly-schedule }
+
+{% for schedule in site.schedules %}
+{{ schedule }}
 {% endfor %}
