@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CSCI 100
-tagline: Howard CSCI 100 Fall 2021
-description: Intro to Computer Science
+title: SD2201 Functional Programming
+tagline: ITERA SD2201 2022
+description: Intro to Functional Programming
 author: Alexander Krentsel
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://csci100.org' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://itera-sd2201.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -78,11 +78,6 @@ compress_html:
   startings: []
   blanklines: false
   profile: false
-
-# Google Analytics Tracking (optional)
-# e.g, UA-1234567-89
-ga_tracking: UA-143332212-2
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
   - jekyll-seo-tag
