@@ -6,9 +6,11 @@ date: 2023-03-26
 
 **Deadline Tugas Kelompok** 
 
-RA: Selasa, 23.59
-RB: Minggu, 23.59
-RC: Rabu, 23.59
+Waktu pengumpulan Tugas Kelompok diundur tiga hari, sehingga batas waktu pengumpulan Tugas Kelompok Modul 6 menjadi,
+
+RA: Jumat, 23.59
+RB: Rabu, 23.59
+RC: Sabtu, 23.59
 
 **Panduan Tugas Kelompok**
 
