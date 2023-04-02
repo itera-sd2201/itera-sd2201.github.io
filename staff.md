@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Staff
+title: 👩‍🏫 Staf
 description: A listing of all the course staff members.
 ---
+WIP.
+
+<!---
 
 # Staff
 
@@ -34,3 +37,5 @@ For a quicker response on homework or project help, please ask on Piazza rather 
 {{ staffer }}
 {% endfor %}
 {% endif %}
+
+-->

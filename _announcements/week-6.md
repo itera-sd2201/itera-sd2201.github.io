@@ -1,16 +1,29 @@
 ---
-title: Week 6 Announcement
+title: Pengumuman Terkait Modul 6 
 week: 6
-date: 2021-09-26
+date: 2023-03-26
 ---
 
-This week's announcement is made up of 3 mini-announcements:
+**Deadline Tugas Kelompok** 
 
-**STEP Internship Application**
-The STEP internship application opened 9/14, and is a rolling application. I highly encourage you to apply as soon as possible - ideally by the end of the week. Click [here](https://buildyourfuture.withgoogle.com/programs/step/) to go to the application page.
+RA: Selasa, 23.59
+RB: Minggu, 23.59
+RC: Rabu, 23.59
 
-**Assignment Late Policy**
-Reminder on the late policy for this class: all labs and homeworks can be turned in up to 5 days late. You will only lose 10% per day that the assignment is late (e.g. an assignment 2 days late can get up to 80% credit). We will also be dropping the lowest lab grade at the end of the semester. So if you can't finish an assignment by the due date, it's okay - keep working on it and submit it late for partial credit!
+**Panduan Tugas Kelompok**
 
-**Exam Grading**
-We are in the process of grading your exam, and hope to have the exam graded for you by next Monday. 
+Panduan Tugas Kelompok Modul 6 PBF:
+https://cs61a.org/proj/hog
+
+1. Akses tautan di atas, kemudian unduh hog.zip
+2. Baca panduan dengan saksama. Kerjakan problem 0-12.
+3. Praktikum kali ini cukup menarik karena temen-temen harus membuka test case-nya dahulu sebelum digunakan. Caranya, misalnya mengerjakan problem 1, harus jalankan `python3 ok -q 01 -u` dahulu, baru bisa jalankan `python3 ok -q 01`. Cek lampiran, Gambar 1. 
+4. Jika temen-temen ingin mengetahui score yang didapat, bisa gunakan `python3 ok --score`
+5. Selain hal di atas, kerjakan Tugas Kelompok ini sama seperti modul-modul sebelumnya. Jangan lupa lampirkan lampiran wajib.
+Thankss~
+
+**Apa saja yang harus dikumpulkan?**
+
+(1) Laporan singkat di docs, (2) screenshot score yang di dapat, (3) folder yang dikerjakan
+
+Masukkan ke satu folder. Kemudian, jadikan .zip

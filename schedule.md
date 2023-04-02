@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Schedule
+title: 📆 Jadwal
 description: The weekly event schedule.
 ---
 
-# Weekly Schedule
-
-# Week 9 Schedule
+# Jadwal Mingguan
 {: #weekly-schedule }
 
 {% for schedule in site.schedules %}

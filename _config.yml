@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: SD2201
-tagline: ITERA SD2201 2022
-description: Intro to Functional Programming
-author: Alexander Krentsel
+tagline: Pemrograman Berbasis Fungsi
+description: SD2201 - Pemrograman Berbasis Fungsi - 2022
+author: PBF Teams
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://itera-sd2201.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
@@ -28,16 +28,12 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  YouTube Channel:
-    - 'https://www.youtube.com/channel/UCS-xiMGMN9YsMxQnqAai4hw/featured'
-  PythonTutor:
-    - 'https://pythontutor.com/composingprograms.html#mode=edit'
-  Mimir:
-    - 'https://class.mimir.io/courses/ea69c458-7197-4411-af4e-50754e398f64'
-  Piazza:
-    - 'https://piazza.com/class/ksjaetb15k147d'
-  Blackboard:
-    - 'http://blackboard.howard.edu/'
+  Sains Data Web:
+    - 'https://sd.itera.ac.id'
+  Siakad ITERA:
+    - 'https://siakad.itera.ac.id'
+  Python Docs:
+    - 'https://docs.python.org/'
 aux_links_new_tab: true
 footer_content:
 

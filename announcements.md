@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Announcements
+title: 📢 Pengumuman
 description: A feed containing all of the class announcements.
 ---
 

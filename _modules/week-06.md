@@ -1,20 +1,24 @@
 ---
-title: Week 6
+title: Modul 6 - Higher Order Function
+date: 2023-03-26
 ---
 
-Sep 27
-: **Functions Pt. 2, Scope**
-  : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L29_eucVIY6vDewoz0DKEy6_){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1W96wOapKSZza6TBJMwFXl6XrsFUvWBDOpYzoaJwLQBw/edit?usp=sharing){:target="_blank"}\]
-  
-Sep 29
-: **Lists, Mutable/Immutable**
-  : \[[videos](https://www.youtube.com/playlist?list=PLr509y092L29-owhexIGvYZYF4-hfRGbJ){:target="_blank"}\] \[[slides](https://docs.google.com/presentation/d/1PeP4c8g_KNrUYwQ0vxfD81FH4SdLV9ODjS369eHi6UU/edit?usp=sharing){:target="_blank"}\]
+Mar 26 
+: **Modul Praktikum**{: .label .label-red }
+  : \[[Modul](https://drive.google.com/file/d/1OvfYE-RKn9vaj7_DQo7S6CLqAVKQo3hz/view?usp=share_link){:target="_blank"}\]
+: **Tugas Pendahuluan**{: .label .label-yellow }
+  : \[[Dokumen](https://drive.google.com/file/d/1RCthtoKQ4Fo3Suw2aXBwWVDyJmAjA0o7/view?usp=sharing){:target="_blank"}\]
 
-Sep 30
-: **Lab**{: .label .label-purple }Lab 6: List Functions
-  : \[[slides](https://docs.google.com/presentation/d/1eVE-W03cMBNkCpRU3iBzp9Z6Fce7AbCl/edit?usp=sharing&ouid=105312008256795736262&rtpof=true&sd=true){:target="_blank"}\]
+Mar 27
+: **Tugas Individu**{: .label .label-blue }
+  : \[[Dokumen](https://drive.google.com/file/d/1Otq4CQ28pu0P7KJZoy7oDmmTVpEtm5Fw/view?usp=sharing){:target="_blank"}\]
 
-<!-- 
-Sep 4
-: **HW**{: .label .label-blue }Released: [HW2: Variables and Types](https://class.mimir.io/assignments/5e7aad41-169d-49e6-a052-1d64ba1fb545) -->
+Mar 27
+: **Tugas Kelompok**{: .label .label-green }
+  : \[[Dokumen](https://drive.google.com/file/d/1P6xRTQckRZT5iHj5c-Ln8POoWtbWK48Y/view?usp=sharing){:target="_blank"}\]
+
+Apr 2
+: **Kunci Jawaban Tugas Individu**{: .label .label-purple }
+  : \[[Kunci Jawaban](https://colab.research.google.com/drive/1982IL8-lLrcjii8A2xZ4_iFuBw0JYwxG?usp=share_link){:target="_blank"}\]
+
 

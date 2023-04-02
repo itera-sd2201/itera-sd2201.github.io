@@ -2,9 +2,6 @@
 layout: home
 title: Home
 nav_exclude: true
-seo:
-  type: Course
-  name: SD2201 ITERA
 ---
 
 # {{ site.tagline }}
@@ -12,33 +9,29 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-<!-- {% if site.announcements %}
-{{ site.announcements.last }}
-[Announcements](announcements.md){: .btn .btn-outline .fs-3 }
-{% endif %} -->
+## Tentang Mata Kuliah
 
-## About the Class
+Mata kuliah ini memberikan pemahaman dasar dan memodelkan permasalahan pemrograman menggunakan konsep pemrograman berbasis fungsi untuk penyelesaian suatu permasalahan dengan implementasi menggunakan bahasa Python.
 
-Mata kuliah ini memberikan pemahaman dasar dan memodelkan permasalahan pemrograman menggunakan konsep pemrograman berbasis fungi untuk penyelesaian suatu permasalahan dengan implementasi menggunakan bahasa Python.
+Lihat [silabus](syllabus.md) untuk lebih rinci.
 
-See the [Syllabus page](syllabus.md) for more details on course policies.
-
-## Course Materials
-{% for module in site.modules %}
-{{ module }}
-{% endfor %}
-
-## Recent Announcements
+## Pengumuman Terbaru
 {% assign num_recent_announcements = 2 %}
 {% assign all_announcements = site.announcements | sort: "date" | reverse %}
 {% for announcement in all_announcements limit:num_recent_announcements %}
   {{ announcement }}
 {% endfor %}
-[See All Announcements](#all-announcements){: .btn .btn-outline }
+[Lihat semua pengumuman](announcements.md){: .btn .btn-outline }
 
-## Week 10 Schedule
-{: #weekly-schedule }
-
+## Jadwal Minggu Ini
 {% for schedule in site.schedules %}
 {{ schedule }}
 {% endfor %}
+
+## Modul Terbaru
+{% assign num_recent_modules = 2 %}
+{% assign all_modules = site.modules | sort: "date" | reverse %}
+{% for module in all_modules limit:num_recent_modules %}
+  {{ module }}
+{% endfor %}
+[Lihat semua modul](calender.md){: .btn .btn-outline }
